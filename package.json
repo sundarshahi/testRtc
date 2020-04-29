@@ -24,7 +24,7 @@
     "material-icons-svg": "^1.0.0",
     "node-fetch": "^2.5.0",
     "prettier": "^1.17.0",
-    "react": "^16.8.6",
+    "react": "^16.13.1",
     "react-dom": "^16.8.6",
     "react-modal": "^3.8.1",
     "react-redux": "^7.1.0",
